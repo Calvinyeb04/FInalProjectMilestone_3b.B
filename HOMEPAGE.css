@@ -1,0 +1,17 @@
+div.WELCOME {
+  color: red;
+  padding: 30px 0;
+  text-align: center;
+}
+
+div.BACKGROUND {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.75)), url("Paris.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+ul.LINKS {
+  color: red;
+  display: flex;
+  justify-content: space-between;
+}
